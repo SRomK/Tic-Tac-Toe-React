@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(211, 190, 231);
+    margin: 2rem;
+    background:url("https://media.gq.com.mx/photos/5f46c2044464f9b88fb25e99/master/w_3000,h_1688,c_limit/evangelion-neon-genesis.jpg");
+    background-size: cover;
+}
+table {
+    width: 480px;
+    height: 480px;
+    margin: auto;
+    margin-top: 30px;
+    border-collapse:collapse;
+}
+
+td {
+    width: 33%;
+    height: 33%;
+    border: 1rem rgb(11, 7, 7) solid;
+    background-color: rgb(124, 15, 227);
+    font-size: 80px;
+    padding:0;
+    box-shadow: 10px 10px 10px 10px;
+    margin: 10px !important;
+    
+}
+.item {
+    text-align: center;
+   
+    padding-bottom: 20px;
+}
+.winner {
+    color: rgb(245, 21, 125);
+    text-align: center;
+}
